@@ -1,10 +1,39 @@
-<!-- Header -->
-<h1 align="center">
-  Hi, I'm Dharshika D S 👋
-</h1>
-
+<!-- Animated Header Wave -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=6A5ACD&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Aspiring+AI+Engineer;Machine+Learning+Enthusiast;Future+Japan+Intern+🇯🇵" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header"/>
+</p>
+
+<!-- BIG Vertical Animated Name -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?
+font=Courier+Prime&
+weight=900&
+size=90&
+pause=500&
+color=6A5ACD&
+center=true&
+vCenter=true&
+multiline=true&
+width=600&
+height=450&
+lines=H;I;D;H;A;R;S;H;I;K;A"
+  />
+</p>
+
+<!-- Subtitle Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?
+font=Poppins&
+weight=600&
+size=26&
+duration=3000&
+pause=800&
+color=8A2BE2&
+center=true&
+vCenter=true&
+width=650&
+lines=AI+%26+Data+Science+Student;Aspiring+AI+Engineer;Machine+Learning+Enthusiast"
+  />
 </p>
 
 ---
@@ -22,17 +51,17 @@
 🎓 KIT – Kalaignar Karunanidhi Institute of Technology  
 📍 Coimbatore, India  
 
-💡 I love building:
+💡 I enjoy building:
 - Machine Learning models  
 - Data-driven applications  
-- Interactive Web Apps  
+- Interactive Web Applications  
 
 🌱 Currently learning:
-- DSA & Competitive Programming  
+- Data Structures & Algorithms  
 - Machine Learning & Model Evaluation  
-- Japanese Language (JLPT N5) 🇯🇵  
+- Problem Solving & Competitive Programming  
 
-🎯 Goal: **AI / Data Science Internship (India & Japan)**
+🎯 Goal: **AI / Data Science Internship & Strong Technical Growth**
 
 ---
 
@@ -47,7 +76,7 @@
 ## 🚀 Featured Projects
 
 ### 📌 Customer Churn Prediction
-🔹 Compared **9 ML algorithms**  
+🔹 Compared **9 Machine Learning algorithms**  
 🔹 Evaluated Accuracy, Confusion Matrix & ROC-AUC  
 🔹 Tech: Python, Scikit-learn, Matplotlib  
 
@@ -65,22 +94,6 @@
 ---
 
 ## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-font=Courier+Prime&
-weight=900&
-size=80&
-pause=500&
-color=8A2BE2&
-center=true&
-vCenter=true&
-multiline=true&
-width=500&
-height=400&
-lines=H;I;D;H;A;R;S;H;I;K;A"
-  />
-</p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dharshika-112&show_icons=true&theme=tokyonight" width="48%" />
@@ -104,5 +117,5 @@ lines=H;I;D;H;A;R;S;H;I;K;A"
 
 <!-- Footer Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
