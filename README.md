@@ -65,6 +65,22 @@
 ---
 
 ## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?
+font=Courier+Prime&
+weight=900&
+size=80&
+pause=500&
+color=8A2BE2&
+center=true&
+vCenter=true&
+multiline=true&
+width=500&
+height=400&
+lines=H;I;D;H;A;R;S;H;I;K;A"
+  />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dharshika-112&show_icons=true&theme=tokyonight" width="48%" />
