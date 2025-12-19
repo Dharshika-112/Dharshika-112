@@ -1,121 +1,102 @@
-<!-- Animated Header Wave -->
+<!-- ================= HEADER WAVE ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Dharshika%20D%20S&fontSize=45&fontAlignY=35&animation=fadeIn"/>
 </p>
 
-<!-- BIG Vertical Animated Name -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-font=Courier+Prime&
-weight=900&
-size=90&
-pause=500&
-color=6A5ACD&
-center=true&
-vCenter=true&
-multiline=true&
-width=600&
-height=450&
-lines=H;I;D;H;A;R;S;H;I;K;A"
-  />
-</p>
-
-<!-- Subtitle Animation -->
+<!-- ================= NAME ANIMATION ================= -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?
 font=Poppins&
-weight=600&
-size=26&
-duration=3000&
-pause=800&
-color=8A2BE2&
+size=36&
+pause=1200&
+color=9F7AEA&
 center=true&
 vCenter=true&
-width=650&
-lines=AI+%26+Data+Science+Student;Aspiring+AI+Engineer;Machine+Learning+Enthusiast"
-  />
+width=800&
+lines=Hi,+I'm+Dharshika+D+S;AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Future+Software+Engineer;Passionate+Learner" />
 </p>
 
----
-
-<!-- Banner Image -->
+<!-- ================= DOT / DASH STYLE ================= -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-2f7d4b9b-3d30-4d6a-9f44-6a5d1b7c1b4c.gif" width="80%" />
+  <img src="https://readme-typing-svg.herokuapp.com?
+font=Fira+Code&
+size=20&
+pause=800&
+color=FFFFFF&
+center=true&
+vCenter=true&
+width=700&
+lines=···+Learning+Everyday+···;--+Building+Real+Projects+--;•••+Growing+with+Code+•••" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-✨ I'm a **2nd Year B.Tech student in Artificial Intelligence & Data Science**  
-🎓 KIT – Kalaignar Karunanidhi Institute of Technology  
-📍 Coimbatore, India  
+🎓 **2nd Year B.Tech Student** in **Artificial Intelligence & Data Science**  
+🏫 **Kalaignar Karunanidhi Institute of Technology**, Coimbatore  
+💡 Interested in **AI, Machine Learning, Data Science & Web Development**  
+🚀 Actively building projects & preparing for internships  
 
-💡 I enjoy building:
-- Machine Learning models  
-- Data-driven applications  
-- Interactive Web Applications  
+---
 
-🌱 Currently learning:
+## 🛠️ Skills & Tools
+
+### 💻 Programming
+- Python  
+- C / C++  
+- SQL  
+
+### 🌐 Web Development
+- HTML  
+- CSS  
+- Git & GitHub  
+
+### 🤖 AI / Data Science
+- Machine Learning Basics  
+- Data Analysis  
+- Problem Solving  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharshika-112&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharshika-112&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshika-112&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+- Advanced Python  
+- Machine Learning Algorithms  
 - Data Structures & Algorithms  
-- Machine Learning & Model Evaluation  
-- Problem Solving & Competitive Programming  
-
-🎯 Goal: **AI / Data Science Internship & Strong Technical Growth**
+- GitHub & Open Source  
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,github,mysql" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 📌 Customer Churn Prediction
-🔹 Compared **9 Machine Learning algorithms**  
-🔹 Evaluated Accuracy, Confusion Matrix & ROC-AUC  
-🔹 Tech: Python, Scikit-learn, Matplotlib  
-
-🔗 [View Project](https://github.com/Dharshika-112)
-
----
-
-### 📌 Eco Task Tracker (Web App)
-🔹 Animated task manager with goals & alerts  
-🔹 LocalStorage-based data handling  
-🔹 Tech: HTML, CSS, JavaScript  
-
-🔗 [View Project](https://github.com/Dharshika-112)
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharshika-112&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharshika-112&theme=tokyonight" width="48%" />
-</p>
-
----
-
-## 🌍 Find Me Around The Web
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dharshi1106/">
-    <img src="https://img.shields.io/badge/LinkedIn-Dharshika%20DS-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://www.linkedin.com/in/dharshi1106/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-9F7AEA?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:dsdharshika5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-6B46C1?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Dharshika-112">
+    <img src="https://img.shields.io/badge/GitHub-553C9A?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- Footer Animation -->
+<!-- ================= FOOTER WAVE ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
