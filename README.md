@@ -1,56 +1,34 @@
-<!-- ================= HEADER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header"/>
-</p>
 
-<!-- ================= BIG NAME (VISIBLE) ================= -->
-<h1 align="center" style="font-size:48px;">
-  💜 Dharshika D S 💜
-</h1>
+<!-- ================= INTRO GIF ================= -->
+<p align="center">
+  <img src="DHARSHIKA D S (1).gif" width="90%" />
+</p>
 
 <!-- ================= NAME TYPING ANIMATION ================= -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?
 font=Fira+Code&
 weight=700&
-size=36&
+size=34&
 pause=1200&
 color=8A2BE2&
 center=true&
 vCenter=true&
 width=900&
-lines=HELLO!;I'M+DHARSHIKA+D+S;AI+%26+DATA+SCIENCE+STUDENT" />
+lines=HELLO!;I'M+DHARSHIKA+D+S;AI+STUDENT" />
 </p>
 
-<!-- ================= ROLE ANIMATION ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-font=Poppins&
-size=22&
-pause=1500&
-color=9F7AEA&
-center=true&
-vCenter=true&
-width=750&
-lines=Machine+Learning+Enthusiast;Problem+Solver;Passionate+Learner" />
-</p>
+📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎  
+<img src="https://media.tenor.com/2V7e7yE_HZ8AAAAd/coding.gif" width="80" align="right">
 
----
+👩‍💻 𝚃𝚑𝚒𝚛𝚍-𝚢𝚎𝚊𝚛 𝙱.𝚃𝚎𝚌𝚑 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚒𝚗 **Artificial Intelligence 🤖 & Data Science 📊**  
+💻 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 **web apps 🌐, ML models 🧠, and real-world problem solving 🌍**  
+🚀 𝙲𝚘𝚗𝚝𝚒𝚗𝚞𝚘𝚞𝚜𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚗𝚎𝚠 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 ⚡  
+📚 𝙱.𝚃𝚎𝚌𝚑 𝚒𝚗 𝙰𝚕𝚐𝚘𝚛𝚒𝚝ℎ𝚖𝚜 & 𝙸𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚝 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 ⚙️  
+🤝 𝙴𝚗𝚓𝚘𝚢 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚗𝚐 𝚘𝚗 𝚒𝚗𝚗𝚘𝚟𝚊𝚝𝚒𝚟𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚗𝚍 𝚝𝚎𝚊𝚖 𝚎𝚗𝚟𝚒𝚛𝚘𝚗𝚖𝚎𝚗𝚝𝚜 👥  
+💡 𝙿𝚛𝚘𝚟𝚎𝚗 𝚖𝚒𝚗𝚍𝚜𝚎𝚝 𝚏𝚘𝚛 **problem-solving 🛠️ and data-driven decision making 📊**  
+🐧 𝙿𝚛𝚘-𝚄𝚜𝚎𝚛 𝚘𝚏 **Linux** and other tech stacks 💼
 
-## 👩‍💻 About Me
-
-✨ **3nd Year B.Tech – Artificial Intelligence & Data Science**  
-🎓 KIT – Kalaignar Karunanidhi Institute of Technology  
-📍 Coimbatore, India  
-
-💡 I enjoy working on:
-- Machine Learning Models  
-- Data Science Projects  
-- Web Applications  
-
-🎯 Goal: **AI / Data Science Internship**
-
----
 
 ## 🛠️ Tech Stack
 
