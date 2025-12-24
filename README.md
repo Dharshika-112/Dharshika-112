@@ -46,6 +46,8 @@ lines=HELLO!;I'M+DHARSHIKA+D+S;AI+STUDENT" />
 
 ---
 
+
+
 ## 🚀 Featured Projects (GIF Preview)
 
 ### 📌 Customer Churn Prediction
