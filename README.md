@@ -41,8 +41,14 @@ lines=HELLO!;I'M+DHARSHIKA+D+S;AI+STUDENT" />
 ## 🏅 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Dharshika-112?theme=dark&font=Poppins&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Dharshika_5?theme=dark&font=Poppins&ext=heatmap" />
 </p>
+
+---
+
+### 🔗 My LeetCode Profile
+https://leetcode.com/Dharshika_5/
+
 
 ---
 
