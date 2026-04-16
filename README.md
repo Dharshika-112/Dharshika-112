@@ -54,38 +54,7 @@ https://leetcode.com/Dharshika_5/
 
 
 
-## 🚀 Featured Projects (GIF Preview)
 
-### 📌 Customer Churn Prediction
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="65%" />
-</p>
-
-🔹 Compared ML algorithms  
-🔹 Evaluated performance metrics  
-🔹 Tech: Python, Scikit-learn  
-
----
-
-### 📌 Eco Task Tracker (Web App)
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="65%" />
-</p>
-
-🔹 Animated task manager  
-🔹 LocalStorage based  
-🔹 Tech: HTML, CSS, JavaScript  
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharshika-112&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharshika-112&theme=tokyonight" width="48%" />
-</p>
-
----
 
 ## 🌍 Connect With Me
 
