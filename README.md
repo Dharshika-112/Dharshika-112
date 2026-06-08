@@ -21,13 +21,12 @@ lines=HELLO!;I'M+DHARSHIKA+D+S;AI+STUDENT" />
 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎  
 <img src="https://media.tenor.com/2V7e7yE_HZ8AAAAd/coding.gif" width="80" align="right">
 
-👩‍💻 𝚃𝚑𝚒𝚛𝚍-𝚢𝚎𝚊𝚛 𝙱.𝚃𝚎𝚌𝚑 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚒𝚗 **Artificial Intelligence 🤖 & Data Science 📊**  
-💻 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 **web apps 🌐, ML models 🧠, and real-world problem solving 🌍**  
-🚀 𝙲𝚘𝚗𝚝𝚒𝚗𝚞𝚘𝚞𝚜𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚗𝚎𝚠 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 ⚡  
-📚 𝙱.𝚃𝚎𝚌𝚑 𝚒𝚗 𝙰𝚕𝚐𝚘𝚛𝚒𝚝ℎ𝚖𝚜 & 𝙸𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚝 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 ⚙️  
-🤝 𝙴𝚗𝚓𝚘𝚢 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚗𝚐 𝚘𝚗 𝚒𝚗𝚗𝚘𝚟𝚊𝚝𝚒𝚟𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚊𝚗𝚍 𝚝𝚎𝚊𝚖 𝚎𝚗𝚟𝚒𝚛𝚘𝚗𝚖𝚎𝚗𝚝𝚜 👥  
-💡 𝙿𝚛𝚘𝚟𝚎𝚗 𝚖𝚒𝚗𝚍𝚜𝚎𝚝 𝚏𝚘𝚛 **problem-solving 🛠️ and data-driven decision making 📊**  
-🐧 𝙿𝚛𝚘-𝚄𝚜𝚎𝚛 𝚘𝚏 **Linux** and other tech stacks 💼
+Final-Year B.Tech Student in Artificial Intelligence & Data Science  
+Passionate about building AI-driven applications, intelligent systems, and scalable web solutions  
+Skilled in Python, Machine Learning, MERN Stack, LLMs, RAG, and Agentic AI  
+Interested in solving real-world problems through technology and data-driven solutions  
+Continuously learning emerging technologies and improving problem-solving skills  
+Comfortable working with Linux, Git/GitHub, Docker, and modern development tools
 
 
 ## 🛠️ Tech Stack
